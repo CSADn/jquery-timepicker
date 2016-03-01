@@ -1,6 +1,6 @@
 (function($) {
 
-  $('*[data-timepicker]').attr('autocomplete','off').keypress(function(e){
+  $('*[data-timepicker]').attr('autocomplete','off').keydown(function(e){
 
     // Input Value var
     var inputValue = $(this).val();
