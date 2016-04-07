@@ -19,7 +19,7 @@
       // Make sure second value is not greater than 4
       else if(inputValue.length == 1 && e.keyCode != 8){
         e.preventDefault();
-        if( e.keyCode > 50 ){
+        if( inputValue[0]==2 && e.keyCode > 50 ){
           $(this).val(inputValue + '3:');
         }
         else{
