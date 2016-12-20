@@ -1,0 +1,23 @@
+{
+  "name": "jquery-timepicker",
+  "version": "0.0.1",
+  "description": "jQuery Timepicker",
+  "main": "timepicker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonathonwang/jquery-timepicker.git"
+  },
+  "keywords": [
+    "jquery",
+    "timepicker"
+  ],
+  "author": "https://github.com/jonathonwang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jonathonwang/jquery-timepicker/issues"
+  },
+  "homepage": "https://github.com/jonathonwang/jquery-timepicker#readme"
+}
