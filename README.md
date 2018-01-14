@@ -7,4 +7,4 @@ Currently only supports Military Time format.
 Dependencies: jQuery
 
 Changelog:
--Added numeric keypad support.
+  -Added numeric keypad support.
